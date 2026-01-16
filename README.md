@@ -17,6 +17,28 @@ A machine learning project that predicts laptop prices based on various specific
 - [Contact](#contact)
 
 ## 🎯 Overview
+<img width="811" height="486" alt="image" src="https://github.com/user-attachments/assets/f39783bd-fdb6-4e42-95c5-1a31fb249ddf" />
+<img width="809" height="470" alt="image" src="https://github.com/user-attachments/assets/c70e965a-6964-4087-b0ab-8fa7a3f3dd55" />
+<img width="818" height="511" alt="image" src="https://github.com/user-attachments/assets/5723f06c-257a-4ee0-b888-0000aff8082a" />
+<img width="806" height="529" alt="image" src="https://github.com/user-attachments/assets/c0d531bd-1151-4919-9910-3b1f255cef01" />
+<img width="815" height="550" alt="image" src="https://github.com/user-attachments/assets/f7f0cf8e-bac9-4870-83f8-344b58f53ab8" />
+<img width="813" height="508" alt="image" src="https://github.com/user-attachments/assets/57520a31-d667-4313-b990-ce7764b32023" />
+<img width="814" height="461" alt="image" src="https://github.com/user-attachments/assets/00e892f9-f02a-4a47-abf2-416c66851c29" />
+<img width="813" height="444" alt="image" src="https://github.com/user-attachments/assets/1508920d-1b01-41fd-b1bf-828d5290f76f" />
+<img width="808" height="462" alt="image" src="https://github.com/user-attachments/assets/636bc42c-e8f1-4713-b68e-81690ab073ab" />
+<img width="815" height="444" alt="image" src="https://github.com/user-attachments/assets/fd394182-29f5-4243-bdb0-b0b48979025a" />
+<img width="816" height="462" alt="image" src="https://github.com/user-attachments/assets/dab3c27b-5427-422e-91ed-86492898150c" />
+<img width="818" height="520" alt="image" src="https://github.com/user-attachments/assets/2e379dcb-5071-4e86-816f-61da4cabaddf" />
+<img width="814" height="537" alt="image" src="https://github.com/user-attachments/assets/0d5955dd-08f1-47b3-8803-f2cbe1e45f16" />
+<img width="815" height="450" alt="image" src="https://github.com/user-attachments/assets/2da99df5-b324-4e27-b689-4deee834e5d2" />
+<img width="814" height="473" alt="image" src="https://github.com/user-attachments/assets/12158c47-48b3-4f9e-b386-1e586c1b95c7" />
+<img width="826" height="493" alt="image" src="https://github.com/user-attachments/assets/e8c232cc-b3f4-484e-a24f-623a862e6cb2" />
+<img width="811" height="524" alt="image" src="https://github.com/user-attachments/assets/e4a97968-fb98-491f-82ff-e7b27fb566da" />
+<img width="821" height="557" alt="image" src="https://github.com/user-attachments/assets/d3b0b8a6-e122-446d-b846-2ed7986cf1cc" />
+<img width="760" height="566" alt="image" src="https://github.com/user-attachments/assets/8257d60d-f2d8-4c88-9dc5-8133778aace0" />
+<img width="762" height="439" alt="image" src="https://github.com/user-attachments/assets/b00a2f53-9d1d-47e7-8c18-ed7ac4376cbb" />
+<img width="762" height="521" alt="image" src="https://github.com/user-attachments/assets/5a2da384-eac0-4b82-b5a7-6d072c66bf5e" />
+<img width="763" height="579" alt="image" src="https://github.com/user-attachments/assets/21f2b24d-74bf-4dac-9d03-2b0d1f80663d" />
 
 This project aims to predict the price of laptops based on their specifications such as brand, processor, RAM, storage, screen size, and other features. The model can help consumers make informed purchasing decisions and assist retailers in competitive pricing.
 
@@ -175,4 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you found this project helpful, please give it a star!
 
-**Made with ❤️ by Raj Bali**
+**Made with ❤️ by Rajbali**
