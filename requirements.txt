@@ -1,0 +1,31 @@
+
+
+## Key Insights
+- Airbnb listings are unevenly distributed across neighborhoods, indicating varying levels of competition
+- Entire homes/apartments dominate the market, while private rooms represent a smaller but relevant segment
+- Availability varies significantly, suggesting different host strategies and regulatory constraints
+- Most hosts manage a single listing, while a smaller group operates multiple listings, indicating professional hosting activity
+
+---
+
+## Recommendations
+- Hosts should assess neighborhood competition before entering the market
+- New hosts may consider private rooms as a lower-competition entry point
+- Optimizing availability within regulatory limits may be more effective than maximizing open days
+- Single-listing hosts should focus on quality and differentiation rather than scale
+
+---
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- JupyterLab
+
+---
+
+## Author
+Aspiring Data Analyst targeting junior roles in Germany  
+(Open to feedback and collaboration)
