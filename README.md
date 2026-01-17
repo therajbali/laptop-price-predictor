@@ -181,15 +181,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**Raj Bali**
+**Rajbali**
 
 - GitHub: [@therajbali](https://github.com/therajbali)
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/therajbali/
+- Email: rajbaliofficial@gmail.com
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Credit the source]
+- Dataset source: Flipkart GRiD | Software Development Challenge
 - Inspiration from various ML projects
 - Community support and resources
 
